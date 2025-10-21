@@ -1,5 +1,13 @@
 # Brand Page — React + Vite Landing Page
 
+## Preview
+
+Here's what our website looks like:
+
+![Nike Website Homepage](./image.png)
+
+*Homepage featuring our latest Nike Free RN shoes*
+
 A lightweight, responsive landing page built with React and Vite. Designed as a marketing hero for a brand: logo + navigation, a bold left-aligned headline with supporting copy and CTAs, and a large product/hero image on the right.
 
 ## Features
@@ -30,6 +38,4 @@ Install dependencies and start the dev server:
 ```cmd
 npm install
 npm run dev
-
-
 
