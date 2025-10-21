@@ -31,5 +31,5 @@ Install dependencies and start the dev server:
 npm install
 npm run dev
 
-<img width="1894" height="1030" alt="image" src="https://github.com/user-attachments/assets/1929155e-87a1-4461-ac4f-504831a036b6" />
+
 
