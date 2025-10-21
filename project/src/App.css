@@ -4,6 +4,7 @@
   --black: #000;
   --muted: #6b6b6b;
   --accent: #c92b2b;
+   padding-top: 30px;
 }
 
 *{box-sizing: border-box; margin:0; padding:0}
